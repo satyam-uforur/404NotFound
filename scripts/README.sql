@@ -1,0 +1,14 @@
+-- ============================================================
+-- 404NotFoundIN - Complete Database Setup
+-- Run this in Supabase SQL Editor (Dashboard > SQL Editor)
+-- Execute in order: 01-schema.sql -> 02-rls.sql -> 03-seed.sql
+-- ============================================================
+-- Or paste all three files contents below in order.
+-- 
+-- IMPORTANT: You need the SUPABASE_SERVICE_ROLE_KEY to run 
+-- migrations via CLI. Get it from:
+--   Supabase Dashboard > Settings > API > service_role key
+--
+-- Then run:
+--   SUPABASE_SERVICE_ROLE_KEY=your_key node scripts/run-migrations.js
+-- ============================================================
